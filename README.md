@@ -1,4 +1,4 @@
-# 🌍 Análisis Geoespacial de Emisiones de CO2 en Ecuador
+# Análisis Geoespacial de Emisiones de CO2 en Ecuador
 
 ## 🌍 ¿Qué hace esta aplicación?
 
