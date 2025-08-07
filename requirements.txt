@@ -1,0 +1,15 @@
+boto3 
+streamlit 
+pandas 
+xarray 
+netCDF4
+python-dotenv
+folium
+streamlit_folium 
+openpyxl
+cdsapi
+logging
+tenacity
+dotenv
+certifi
+
