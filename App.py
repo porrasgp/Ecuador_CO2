@@ -11,7 +11,7 @@ import math
 import re
 from folium.plugins import MarkerCluster, HeatMap
 
-# Load the dataset
+# Load the datast
 @st.cache_data
 def load_data():
     # Load the Excel file and parse the relevant sheet
